@@ -1,1 +1,1 @@
-# books_recsys_end-to-end
+# Books Recommendation Systems (End-to-End)
