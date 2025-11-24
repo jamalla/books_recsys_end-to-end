@@ -4,4 +4,4 @@ numpy
 PyYAML
 streamlit
 pygments
-#-e .
+-e .
