@@ -127,7 +127,7 @@ class AppConfiguration:
             trained_model_name = model_trainer_config['trained_model_name']
             artifacts_dir = self.configs_info['artifacts_config']['artifacts_dir']
             trained_model_dir = os.path.join(artifacts_dir, model_trainer_config['trained_model_dir'])
-            poster_api = recommendation_config['poster_api_url']
+            #poster_api = recommendation_config['poster_api_url']
             
 
             book_name_serialized_objects = os.path.join(artifacts_dir, data_validation_config['serialized_objects_dir'], 'book_names.pkl')
